@@ -6,7 +6,7 @@
     <artifactId>hotswap-agent-aggregator</artifactId>
     <version>0.3.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-
+<!-- test monitor -->
     <name>Hotswap Agent Aggregator</name>
     <description>Agregator for Hotswap Agent projects</description>
     <url>https://github.com/HotswapProjects/HotswapAgent</url>
